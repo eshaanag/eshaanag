@@ -1,20 +1,66 @@
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Eshaan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+# Eshaan Agrawal
 
-# 💫 About Me:
-- 🔭 I’m currently working on taking rest  <br>- 🌱 I’m currently learning backend development and application security  <br>- 👯 I’m looking to collaborate with people who are ready to hustle, build, break, learn, and repeat  <br>- 🤔 I’m looking for help with scaling ideas, system design, and real-world security practices  <br>- 💬 Ask me about literally anything  <br>- 📫 How to reach me: DM me on LinkedIn or Email<br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I get curious when something is said to be “fully secure”<br>
+I build full-stack software with a focus on useful products, clean systems, and security-aware engineering.
 
+Right now I am working across backend development, application security, developer tooling, and AI-assisted product workflows. I like projects where the hard part is not only writing code, but making the system understandable, testable, and reliable enough for real users.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshaanagrawal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eshaanagrawall) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawaleshaan12@gmail.com) 
+## Current Focus
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eshaanag&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eshaanag&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshaanag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Full-stack applications with React, TypeScript, Python, FastAPI, and Node.js
+- Backend architecture, API design, data modeling, and reliability
+- Application security fundamentals, threat modeling, and secure engineering habits
+- Developer tools that improve how teams understand, review, and maintain code
+- AI-assisted software products with practical workflows, not gimmicks
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eshaanag&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Selected Work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### CommitIQ
+
+A repository health analyzer that ingests GitHub commit history, computes architecture and maintainability signals, and presents a dashboard for code health, ownership risk, graph relationships, hotspots, and AI-generated commit narratives.
+
+Key engineering areas:
+
+- FastAPI backend with SQLAlchemy async ORM
+- React and TypeScript dashboard
+- Commit history analysis, complexity scoring, bus-factor analysis, and graph extraction
+- LLM narrative generation with cache and budget controls
+- CI, test coverage, migration workflow, repository governance checks, and project documentation
+
+Repository: [CommitIQ](https://github.com/eshaanag/CommitIQ---)
+
+## How I Work
+
+- I prefer simple systems that are easy to inspect and change.
+- I write tests around behavior that matters, especially parsing, scoring, APIs, and user flows.
+- I care about operational details: configuration, logs, failure states, and deployment assumptions.
+- I like security discussions that are specific: inputs, trust boundaries, secrets, abuse paths, and blast radius.
+- I document decisions so future work has context instead of guesswork.
+
+## Technology
+
+```text
+Languages      Python, TypeScript, JavaScript, C, C++
+Frontend       React, Vite, HTML, CSS
+Backend        FastAPI, Flask, Express, Node.js
+Databases      PostgreSQL, SQLite, MySQL
+Security       Application security, API security, secure coding basics
+Tooling        Git, GitHub Actions, Bash, PowerShell
+Cloud/Deploy   Vercel, Azure
+```
+
+## What I Am Improving
+
+- Backend depth: concurrency, queues, durable jobs, and production deployment patterns
+- Security depth: authentication, authorization, input validation, and real-world testing practices
+- System design: cleaner boundaries, observability, scaling tradeoffs, and failure handling
+- Product engineering: turning rough ideas into usable workflows with strong defaults
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/eshaanagrawal](https://linkedin.com/in/eshaanagrawal)
+- X: [x.com/eshaanagrawall](https://x.com/eshaanagrawall)
+- Email: [agrawaleshaan12@gmail.com](mailto:agrawaleshaan12@gmail.com)
+
+---
+
+I am always interested in serious builders, security-minded engineers, and people working on tools that make software easier to understand.
