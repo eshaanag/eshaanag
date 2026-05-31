@@ -12,21 +12,13 @@ Right now I am working across backend development, application security, develop
 - Developer tools that improve how teams understand, review, and maintain code
 - AI-assisted software products with practical workflows, not gimmicks
 
-## Selected Work
+## What I Like Building
 
-### CommitIQ
-
-A repository health analyzer that ingests GitHub commit history, computes architecture and maintainability signals, and presents a dashboard for code health, ownership risk, graph relationships, hotspots, and AI-generated commit narratives.
-
-Key engineering areas:
-
-- FastAPI backend with SQLAlchemy async ORM
-- React and TypeScript dashboard
-- Commit history analysis, complexity scoring, bus-factor analysis, and graph extraction
-- LLM narrative generation with cache and budget controls
-- CI, test coverage, migration workflow, repository governance checks, and project documentation
-
-Repository: [CommitIQ](https://github.com/eshaanag/CommitIQ---)
+- Products that turn messy workflows into clear, usable systems
+- Developer tools that make code easier to understand, review, and maintain
+- Backend services with clean APIs, predictable data models, and practical reliability
+- Security-aware applications with explicit trust boundaries and defensive defaults
+- AI-assisted workflows where the model supports the product instead of becoming the product
 
 ## How I Work
 
