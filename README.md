@@ -49,9 +49,9 @@ testable behavior, and clear developer experience.
 ## Selected Projects
 
 - [CommitIQ](https://github.com/eshaanag/CommitIQ---) — Repository health intelligence with commit analysis, risk scoring, code graphs, and AI-generated engineering narratives.
-- [VibeGuard](https://github.com/eshaanag/vibeguard) — Local-first security scanner for finding secrets in GitHub repositories and ZIP uploads.
+- [RadiX](https://github.com/eshaanag/radix-ai) — AI-assisted radiology workstation for scan analysis, clinical review, consultation, and secure imaging records.
 - [Elyaitra](https://github.com/eshaanag/elyaitra) — Syllabus-bound AI study assistant that answers from exam-relevant source material.
-- [Checkora](https://github.com/eshaanag/Checkora) — Chess platform with an AI opponent powered by minimax search and alpha-beta pruning.
+- [Elyaitra Sentinel](https://github.com/eshaanag/elyaitra-sentinel-clean) — Syllabus-bound AI study assistant with adversarial ML defenses, security telemetry, and an operations dashboard.
 
 ## Contact
 
